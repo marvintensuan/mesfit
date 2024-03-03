@@ -1,0 +1,5 @@
+[scripts]
+[scripts.hello]
+process = "python"
+importlib_spec = "scripts.hello"
+file_name = "hello.py"
